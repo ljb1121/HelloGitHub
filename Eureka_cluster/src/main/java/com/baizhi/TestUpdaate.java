@@ -1,6 +1,6 @@
 package com.baizhi;
 
-public class HelloWord {
+public class TestUpdaate {
     public static void main(String[] args) {
         System.out.println("HelloWord");
     }
